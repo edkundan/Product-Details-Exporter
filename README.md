@@ -16,7 +16,7 @@ The **Product Details Exporter** is a Chrome extension designed to extract produ
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/edkundan/Croma-Product-Extractor.git
+   git clone https://github.com/edkundan/Product-Details-Exporter
 
 
 **Load the extension in Chrome:**
